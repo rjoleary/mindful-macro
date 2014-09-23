@@ -1,0 +1,15 @@
+# Ignore log files
+log.txt
+
+# Ignore Visual Studio Express 2010 files and folders
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.user
+ipch
+Debug
+Release
+
+# Ignore Windows files
+[Tt]humbs.db
